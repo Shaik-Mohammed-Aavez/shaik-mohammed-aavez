@@ -26,14 +26,23 @@ I'm a **Full Stack Software Engineer** at **MyTechin Technologies**, shipping pr
 ```csharp
 public class ShaikMohammedAavez : SoftwareEngineer
 {
-    public string Role       => "Full Stack Software Engineer";
-    public string Company    => "MyTechin Technologies";
-    public string Location   => "Hyderabad, India";
+    public string Role     => "Full Stack Software Engineer";
+    public string Company  => "MyTechin Technologies";
+    public string Location => "Hyderabad, India";
 
-    public string[] Stack    => new[] { "ASP.NET Core", ".NET 8", "Angular 19", "SQL Server" };
-    public string[] Strengths => new[] { "Clean Architecture", "JWT & RBAC", "REST APIs", "SOLID" };
+    public string[] Stack => new[]
+    {
+        "ASP.NET Core", ".NET 8",
+        "Angular 19",   "SQL Server"
+    };
 
-    public string CurrentGoal => "Build products people actually use 🚀";
+    public string[] Strengths => new[]
+    {
+        "Clean Architecture", "JWT & RBAC",
+        "REST APIs",          "SOLID"
+    };
+
+    public string Goal => "Build products people use 🚀";
 }
 ```
 
