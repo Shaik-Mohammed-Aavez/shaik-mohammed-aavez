@@ -160,6 +160,40 @@ Fully serverless backend with auto-scaling and zero server maintenance, using le
 </tr>
 </table>
 
+<!-- ===================== MORE PROJECTS ===================== -->
+## 💡 More Projects on GitHub
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/shaik-aavez/develop-application-technology-CURD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaik-aavez&repo=develop-application-technology-CURD&theme=tokyonight&hide_border=true" alt="develop-application-technology-CURD" /></a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/shaik-aavez/weather-forecat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaik-aavez&repo=weather-forecat&theme=tokyonight&hide_border=true" alt="weather-forecat" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/shaik-aavez/receipe-founder-dishes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaik-aavez&repo=receipe-founder-dishes&theme=tokyonight&hide_border=true" alt="receipe-founder-dishes" /></a>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/shaik-aavez/protfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaik-aavez&repo=protfolio&theme=tokyonight&hide_border=true" alt="protfolio" /></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shaik-aavez?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos" /></a>
+</p>
+
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
